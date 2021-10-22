@@ -52,4 +52,4 @@ https://filters.adtidy.org/extension/ublock/filters/6.txt
 https://rawcdn.githack.com/abpvn/abpvn/master/filter/abpvn.txt
 
 # My own annoyance
-https://pastebin.com/Wj6AQM0p
+https://github.com/mrxyzl/ad-block/blob/main/Custom.txt

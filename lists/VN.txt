@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 https://filters.adtidy.org/extension/ublock/filters/6.txt
 
 # ----------------------------------
-# Now some region-specific lists
+# Now some region-specific lists.
 # ----------------------------------
 https://rawcdn.githack.com/abpvn/abpvn/master/filter/abpvn.txt
 
